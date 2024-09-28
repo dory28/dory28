@@ -1,12 +1,37 @@
-2 xícaras de farinha de trigo
-1 xícara de açúcar
-1/2 xícara de manteiga 
-3 ovos
-1 xícara de leite 
-1 colher de sopa de fermento em pó 
-1 colher de chá de essência de baunilha 
+# Receita de Bolo de Cenoura com Cobertura de Chocolate
 
-‹section id= "home">
- <h2>Bem-vindo ao Mundo dos Carros Clássicos! </h2> 
-<p>Explore e descubra os icones da história automotiva.‹/p> </ section> ‹section 
-id="modelos"> <h2>Modelos Icónicos</h2> ‹div class="carro"> <img sro="https://images.unsplash.com/photo-1607517279047-0a8d5c8b63ef?fit=crop&w=800&h=533" alt="Ford Mustang 196 <h3>Ford Mustang 1965</h3> <p>Um Icone dos anos 60, conhecido por seu design icônico e desempenho impressionante.‹/p› </div> ‹div class="carro"> simg sre="https://images.unsplash.com/photo-1603753827235-5820a12a2f3a?fit=crop&w=800&h=533" alt="Chevrolet Corvet <h3>Chevrolet Corvette 1957</h3> <p>Um classico absoluto com um design elegante e uma potência marcante.‹/p>
+## Ingredientes
+
+### Massa:
+- 3 cenouras médias
+- 4 ovos
+- 1 xícara de óleo
+- 2 xícaras de açúcar
+- 2 1/2 xícaras de farinha de trigo
+- 1 colher de sopa de fermento em pó
+
+### Cobertura:
+- 1 colher de sopa de manteiga
+- 3 colheres de sopa de chocolate em pó
+- 1 xícara de açúcar
+- 5 colheres de sopa de leite
+
+## Modo de Preparo
+
+### Massa:
+1. Preaqueça o forno a 180°C.
+2. No liquidificador, bata as cenouras, os ovos e o óleo até obter uma mistura homogênea.
+3. Em uma tigela, misture o açúcar e a farinha de trigo.
+4. Adicione a mistura do liquidificador na tigela e mexa bem.
+5. Acrescente o fermento em pó e misture delicadamente.
+6. Despeje a massa em uma forma untada e enfarinhada.
+7. Leve ao forno preaquecido por cerca de 40 minutos ou até que o bolo esteja dourado e ao espetar um palito, ele saia limpo.
+
+### Cobertura:
+1. Em uma panela, misture a manteiga, o chocolate em pó, o açúcar e o leite.
+2. Leve ao fogo baixo, mexendo sempre até engrossar levemente.
+3. Quando o bolo estiver pronto, desenforme e espalhe a cobertura ainda quente sobre ele.
+
+## Sugestão de Servir:
+Espere a cobertura esfriar um pouco para que ela fique mais firme e o bolo absorva o sabor. Sirva acompanhado de um café ou chá para uma experiência completa!
+
